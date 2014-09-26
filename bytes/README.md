@@ -1,6 +1,6 @@
 Send ByteArrays from PhoneGap to RFduino
 
-Install rfduino/RFduinoDataBytes/RFduinoDataBytes.ino onto your RFduino
+Install RFduinoDataBytes/RFduinoDataBytes.ino onto your RFduino
 Open the Serial Monitor in the Arduino IDE
 
 Add a platform and the RFduino plugin
